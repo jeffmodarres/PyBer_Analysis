@@ -12,12 +12,14 @@ The summary is shown below in table 1.
 * Average fare per driver has the same trend as the Averge fare ride. Its the highest for  the Rural and the lowest for Urban. 
 
 Table. 1: summary of ride-share data
+
  ![Summary Table](analysis/Summary_Table.png)
 
 The total fare is plotted for each city type in Fig.1. 
 From January to end of April, total fare for each type is relatively constant with slight dip in Jan. 
 
  ![Total Fare by City Type](analysis/PyBer_fare_summary.png)
+ 
  Fig.1: Total Fare by City Type
 
 ## PyBer_Analysis Summary
