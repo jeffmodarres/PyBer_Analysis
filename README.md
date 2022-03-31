@@ -23,4 +23,4 @@ From January to end of April, total fare for each type is relatively constant wi
 ## PyBer_Analysis Summary
 In summary urban areas generate the most profit becaue of the higher total fares. However, the fare per ride is the highest for rural areas.
 There are way too many drivers in Urban areas. Some of them didn't even have one ride in the past 4 months. 
-The generated total fare for each city type is "almost" constant.
+The generated total fare for each city type is "almost" constant over time.
